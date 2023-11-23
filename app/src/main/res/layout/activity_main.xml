@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Twoje pole" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/moje_0_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_1_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_2_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_3_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/moje_4_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Pole przeciwnika" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_0"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_2"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_3"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_4"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_5"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_6"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_7"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/przeciwnik_0_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_1_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_2_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_3_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/przeciwnik_4_8"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/start_game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="START"
+            tools:visibility="visible" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RESTART"
+            tools:visibility="invisible" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
